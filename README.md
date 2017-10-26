@@ -1,5 +1,5 @@
 # Clustered-Data-Warehouse
-To run this project
+ To run this project
 -clone the project to desktop
 -make sure maven,mysql is installed
 -run the datawarehouse.sql to create the schema
