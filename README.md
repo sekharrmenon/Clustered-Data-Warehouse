@@ -11,7 +11,7 @@
 
 -got to the pom directory of the cloned project and run mvn clean install to generate the .war file
 
-- deploy the war file in <tomcat directory>/webapps and start the server
+- deploy the war file in (tomcat directory)/webapps and start the server
 
 -look for localhost:8080/datawarehouse/ for the welcome url
 
